@@ -22,7 +22,7 @@
             <button type="submit" name="login-btn">Login</button>
         </form>
 
-        <form action="" class="register">
+        <form action="./includes/register.inc.php" method="post" class="register">
             <h2>Register</h2>
             <input type="text" name="fname" placeholder="Enter Your First Name...">
             <input type="text" name="lname" placeholder="Enter Your Last Name...">
